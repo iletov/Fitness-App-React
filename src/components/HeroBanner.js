@@ -14,7 +14,7 @@ function HeroBanner() {
 
 				<Typography fontWeight={700} mb='23px' mt='30px' sx={{ fontSize: { lg: '44px', xs: '40px'} }}>Sweat, Smile <br /> and Repeat</Typography>
 
-				<Typography fontSiz='22px' lineHeight='35px' mb={4}>Check out the most effective exercises</Typography>
+				<Typography fontSize='22px' lineHeight='35px' mb={4}>Check out the most effective exercises</Typography>
 
 				<Button variant='contained' color='error' href='#exercises' sx={{ backgroundColor: '#ff2625', padding: '10px' }}>Explore Exercises</Button>
 				<Typography
