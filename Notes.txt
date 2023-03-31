@@ -1,2 +1,3 @@
 // install all the dependencies (package.json)
 npm install --legacy-peer-deps
+
